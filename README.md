@@ -28,6 +28,7 @@ Prereqs:
 * I assume you have python3.11 installed. If not, I strongly recommend setting up pyenv.
 * I assume you are familiar with virtual environments.
 * I assume you have rust installed. If not, I strongly recommend setting up rustup.
+* I assume you have added a local ssh key to your github account. You will not be able to install the requirements otherwise. See [here](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/about-ssh) for instructions.
 
 Packages are stored in a `requirements.txt` file.
 To install:
