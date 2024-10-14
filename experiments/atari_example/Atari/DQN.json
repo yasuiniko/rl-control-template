@@ -1,7 +1,7 @@
 {
     "agent": "DQN",
     "problem": "Atari",
-    "total_steps": 20000000,
+    "total_steps": 200,
     "episode_cutoff": 30000,
     "metaParameters": {
         "environment": {

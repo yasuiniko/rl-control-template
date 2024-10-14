@@ -1,7 +1,7 @@
 {
     "agent": "SoftmaxAC",
     "problem": "MountainCar",
-    "total_steps": 100000,
+    "total_steps": 200,
     "episode_cutoff": 5000,
     "metaParameters": {
         "alpha": [0.05, 0.01],
