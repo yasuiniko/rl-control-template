@@ -1,7 +1,7 @@
 {
     "agent": "ESARSA",
     "problem": "Cartpole",
-    "total_steps": 200,
+    "total_steps": 100000,
     "episode_cutoff": -1,
     "metaParameters": {
         "alpha": [0.5],

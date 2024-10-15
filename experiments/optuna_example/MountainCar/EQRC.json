@@ -1,7 +1,7 @@
 {
     "agent": "EQRC",
     "problem": "MountainCar",
-    "evaluation_steps": 200,
+    "evaluation_steps": 100000,
     "evaluation_runs": 3,
     "search_epochs": 32,
     "episode_cutoff": 5000,

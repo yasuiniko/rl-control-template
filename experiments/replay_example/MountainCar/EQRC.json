@@ -1,7 +1,7 @@
 {
     "agent": "EQRC",
     "problem": "MountainCar",
-    "total_steps": 200,
+    "total_steps": 200000,
     "episode_cutoff": 250,
     "metaParameters": {
         "epsilon": 0.1,
